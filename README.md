@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá 👋
+## Sou a Joana Gabriel, recém licenciada em Engenharia de Sistemas e Tecnologias Informáticas na Univerdidade do Algarve. 
+
+## 🚀 Tecnologias e ferramentas:
+PHP, Laravel, HTML, CSS e JavaScript
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
 
 <!--
 **joanag04/joanag04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
